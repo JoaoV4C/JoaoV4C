@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/JoaoV4C/JoaoV4C">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoV4C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoV4C&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoV4C&hide_progress=true&theme=tokyonight"/>
 </div>
 <br>
 <a href="https://skillicons.dev">
